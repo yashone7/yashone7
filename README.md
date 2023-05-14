@@ -1,7 +1,7 @@
 
 ## Hi There, I'm Yashwanth 👋
 
-I'm a software engineer in TCS.
+I'm a software engineer in Carrier Corporation.
 To me software engineering is like LEGO. You can build anything!
 
 
