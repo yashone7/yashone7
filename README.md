@@ -11,13 +11,12 @@ I'm a full stack developer and
 
 - 🔭 I’m currently working on: (micro)-Blogging application, How to build react-like library!
 - 🌱 I’m currently learning: Software design patterns, how to contribute to open source
-- 🤔 I’m looking for help with: writing babel plugins 
-- ❤️ I love building things, and teaching what I've learnt!
+- 🤔 I love helping people get started with technology and help them build their first meaningful apps! 
+- ❤️ I love building things, and teaching what I love!
 - 😄 Pronouns: he/him
 
 ### 🛠 Skills
-Javascript, HTML, CSS, React, Redux, React Native, NextJS, Express, 
-MongoDB, MySQL, Socket.io, FeathersJS
+Javascript, Typescript, AWS, MonogoDB, NodeJS, Express, React, MySQL
 
 
 ## 🔗 Links
